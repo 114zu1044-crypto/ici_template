@@ -120,6 +120,7 @@ We would like to express our gratitude to Professor Pien Chung–pei for providi
 
 
 ## References
-      - AI model: https://bonki67-nccu-compass-test.hf.space/?view=api 
-      - Dataset: https://drive.google.com/drive/folders/1uxquqnzCbrU2pKlzaAhdUQGIDKc-ijzS?usp=drive_link 
-      - Poster: https://drive.google.com/file/d/1c8LPzRnSokywIjmuKGpd-iywnG1p6WO9/view?usp=sharing 
+
+     AI model: https://bonki67-nccu-compass-test.hf.space/?view=api 
+     Dataset: https://drive.google.com/drive/folders/1uxquqnzCbrU2pKlzaAhdUQGIDKc-ijzS?usp=drive_link 
+     Poster: https://drive.google.com/file/d/1c8LPzRnSokywIjmuKGpd-iywnG1p6WO9/view?usp=sharing 
