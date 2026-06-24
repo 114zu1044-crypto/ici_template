@@ -103,13 +103,15 @@ During training across multiple epochs, the model successfully demonstrated opti
 This project was developed by a team of four members. All members contributed jointly to data collection, travelling around the NCCU campus to take real-life photographs of the buildings used to train and test the model.
 
   **Engineering/Development**
-        Nguyen Ha Thuy Duong: Engineer / Coder
-        Dang Thu Uyen: Engineer / Coder
+  
+        - Nguyen Ha Thuy Duong: Engineer / Coder
+        - Dang Thu Uyen: Engineer / Coder
             Responsible for building and training the Convolutional Neural Network model, implementing the geolocation-aware prediction pipeline, integrating the image recognition and code-based search functions, connecting the system to Google Maps for navigation, and handling data preprocessing, model evaluation, and the confidence-threshold and "Not Found" handling logic.
 
   **Design**
-        Hoang Linh Nhi: Designer
-        Lai Boi Nhu: Designer
+  
+        - Hoang Linh Nhi: Designer
+        - Lai Boi Nhu: Designer
             Responsible for the user interface and overall user experience, including the building identification and search screens, the building information pages, the navigation views, and the visual presentation and layout of the project materials.
 
 ## Acknowlegemendts
